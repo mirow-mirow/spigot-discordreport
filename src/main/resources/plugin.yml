@@ -1,0 +1,4 @@
+name: DiscordReport
+version: ${project.version}
+main: mrw.discordreport.discordreport.DiscordReport
+api-version: 1.17
