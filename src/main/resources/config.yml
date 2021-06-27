@@ -1,0 +1,4 @@
+# Config.yml
+# You need to put a Webhook link otherwise the Plugin will not work
+
+Discordwebhooklink: 'none'
